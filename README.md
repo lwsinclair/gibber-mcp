@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/mseep-audited.png)](https://mseep.ai/app/anton10xr-gibber-mcp)
+
 # Tiny Cryptography MCP Server
 
 A Model Context Protocol server built with Express.js that provides cryptographic tools including key pair generation, shared secret derivation, and message encryption/decryption.
